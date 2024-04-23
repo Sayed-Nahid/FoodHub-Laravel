@@ -44,7 +44,7 @@
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="{{url('/')}}">
             <span>
-              Feane
+              FoodHub
             </span>
           </a>
 
