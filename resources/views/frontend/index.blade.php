@@ -1056,13 +1056,13 @@
             <div class="box">
               <div class="detail-box">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+                FoodHub is my go-to for quick, tasty meals. The fast food options are convenient yet high-quality. Ordering is easy, and delivery is always on time. Highly recommended!
                 </p>
                 <h6>
-                  Moana Michell
+                  Mohammad Ullah
                 </h6>
                 <p>
-                  magna aliqua
+                  Software Engineer-II
                 </p>
               </div>
               <div class="img-box">
@@ -1074,13 +1074,13 @@
             <div class="box">
               <div class="detail-box">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+                FoodHub is fantastic! The menu offers a wide range of delicious dishes. The staff is attentive and friendly, creating a welcoming atmosphere. I can't wait to try more!
                 </p>
                 <h6>
-                  Mike Hamell
+                  Radiful Islam
                 </h6>
                 <p>
-                  magna aliqua
+                  Research Scientist
                 </p>
               </div>
               <div class="img-box">

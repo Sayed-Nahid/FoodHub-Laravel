@@ -16,14 +16,11 @@
           <div class="detail-box">
             <div class="heading_container">
               <h2>
-                We Are Feane
+                We Are FoodHub
               </h2>
             </div>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
-              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
-              the middle of text. All
+            Welcome to FoodHub, your destination for delicious dining and exceptional service. Founded with a passion for food and a commitment to quality, FoodHub offers a diverse menu crafted with care, featuring everything from comfort food classics to gourmet specialties. We prioritize your dining experience, striving to create memorable moments with attentive service and inviting ambiance. Our dedicated team is committed to delivering culinary excellence, continuously innovating and refining our offerings based on your valuable feedback. Join us on this culinary journey and indulge in the flavors of FoodHub, where every meal is a celebration of taste, quality, and passion.
             </p>
             <a href="">
               Read More
