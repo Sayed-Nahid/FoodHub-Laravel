@@ -1059,7 +1059,7 @@
                 FoodHub is my go-to for quick, tasty meals. The fast food options are convenient yet high-quality. Ordering is easy, and delivery is always on time. Highly recommended!
                 </p>
                 <h6>
-                  Mohammad Ullah
+                Daenerys Targaryen
                 </h6>
                 <p>
                   Software Engineer-II
@@ -1077,7 +1077,7 @@
                 FoodHub is fantastic! The menu offers a wide range of delicious dishes. The staff is attentive and friendly, creating a welcoming atmosphere. I can't wait to try more!
                 </p>
                 <h6>
-                  Radiful Islam
+                  Jon Snow
                 </h6>
                 <p>
                   Research Scientist
