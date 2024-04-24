@@ -54,7 +54,11 @@
         </div>
         <div class="col-md-6">
           <div class="map_container ">
-            <div id="googleMap"></div>
+           
+              <p>  
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58376.456869834314!2d90.30441324467486!3d23.870869157735083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8ada2664e21%3A0x3c872fd17bc11ddb!2sDaffodil%20International%20University!5e0!3m2!1sen!2sbd!4v1713964582599!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </p>
+           
           </div>
         </div>
       </div>
