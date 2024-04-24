@@ -13,7 +13,7 @@
   <meta name="author" content="" />
   <link rel="shortcut icon" href="{{url('frontend/images/favicon.png')}}" type="">
 
-  <title> Feane </title>
+  <title> FoodHub </title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="{{url('frontend/css/bootstrap.css')}}" />

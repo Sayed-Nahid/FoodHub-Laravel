@@ -8,22 +8,22 @@
               Contact Us
             </h4>
             <div class="contact_link_box">
-              <a href="">
+              <a href="https://www.google.com/maps/place/Daffodil+International+University/@23.8768907,90.2860388,13z/data=!4m6!3m5!1s0x3755b8ada2664e21:0x3c872fd17bc11ddb!8m2!3d23.8768956!4d90.3201592!16s%2Fm%2F027pprm?entry=ttu">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                 <span>
-                  Location
+                  Dhaka, Bangladesh
                 </span>
               </a>
               <a href="">
                 <i class="fa fa-phone" aria-hidden="true"></i>
                 <span>
-                  Call +01 1234567890
+                  Call +880 1538346603
                 </span>
               </a>
-              <a href="">
+              <a href="mailto:nahid15-3849@diu.edu.bd">
                 <i class="fa fa-envelope" aria-hidden="true"></i>
                 <span>
-                  demo@gmail.com
+                  nahid15-3849@diu.edu.bd
                 </span>
               </a>
             </div>
@@ -32,26 +32,26 @@
         <div class="col-md-4 footer-col">
           <div class="footer_detail">
             <a href="" class="footer-logo">
-              Feane
+              FoodHub
             </a>
             <p>
-              Necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with
+            Indulge in a culinary journey with FoodHub, where every dish is a masterpiece. We cherish your feedback as it helps us refine and perfect your dining experience. Thank you for choosing FoodHub; your satisfaction is our utmost priority!
             </p>
             <div class="footer_social">
-              <a href="">
+              <a href="https://www.facebook.com/sayed.nahid.73">
                 <i class="fa fa-facebook" aria-hidden="true"></i>
               </a>
-              <a href="">
-                <i class="fa fa-twitter" aria-hidden="true"></i>
-              </a>
-              <a href="">
+              <a href="https://www.linkedin.com/in/sayed-nahid-02b98a257/">
                 <i class="fa fa-linkedin" aria-hidden="true"></i>
               </a>
-              <a href="">
+              <a href="https://github.com/Sayed-Nahid">
+                <i class="fa fa-github" aria-hidden="true"></i>
+              </a>
+              <a href="https://www.instagram.com/_sayed_nahid/">
                 <i class="fa fa-instagram" aria-hidden="true"></i>
               </a>
               <a href="">
-                <i class="fa fa-pinterest" aria-hidden="true"></i>
+                <i class="fa fa-twitter" aria-hidden="true"></i>
               </a>
             </div>
           </div>
@@ -64,16 +64,16 @@
             Everyday
           </p>
           <p>
-            10.00 Am -10.00 Pm
+            10.00 AM - 11.30 PM
           </p>
         </div>
       </div>
       <div class="footer-info">
         <p>
           &copy; <span id="displayYear"></span> All Rights Reserved By
-          <a href="https://html.design/">Free Html Templates</a><br><br>
-          &copy; <span id="displayYear"></span> Distributed By
-          <a href="https://themewagon.com/" target="_blank">ThemeWagon</a>
+          <a href="https://github.com/Sayed-Nahid/FoodHub">FoodHub</a><br><br>
+          &copy; <span id="displayYear"></span> Developed By
+          <a href="https://github.com/Sayed-Nahid" target="_blank">Sayed Nahid</a>
         </p>
       </div>
     </div>
