@@ -260,10 +260,10 @@
                 </div>
                 <div class="detail-box">
                   <h5>
-                    Delicious Pizza
+                  Pizza Margherita
                   </h5>
                   <p>
-                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                  Delight in our Pizza Margherita, topped with fresh mozzarella, tomato sauce, basil, and a sprinkle of olive oil. Simple and classic!
                   </p>
                   <div class="options">
                     <h6>
@@ -336,10 +336,10 @@
                 </div>
                 <div class="detail-box">
                   <h5>
-                    Delicious Burger
+                  Beef Burger
                   </h5>
                   <p>
-                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                  Savor our Beef Burger with juicy ground beef, lettuce, tomato slices, and fresh green leaf. A classic delight!
                   </p>
                   <div class="options">
                     <h6>
@@ -412,10 +412,10 @@
                 </div>
                 <div class="detail-box">
                   <h5>
-                    Delicious Pizza
+                  Pizza Pepperoni
                   </h5>
                   <p>
-                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                  Pizza Pepperoni, featuring spicy pepperoni slices, mozzarella cheese, tomato sauce, and a hint of herbs. A flavorful favorite!
                   </p>
                   <div class="options">
                     <h6>
@@ -488,10 +488,10 @@
                 </div>
                 <div class="detail-box">
                   <h5>
-                    Delicious Pasta
+                  Pasta Carbonara
                   </h5>
                   <p>
-                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                  Made with creamy sauce, crispy bacon, parmesan cheese, and al dente spaghetti. Comfort food at its best!
                   </p>
                   <div class="options">
                     <h6>
@@ -564,10 +564,10 @@
                 </div>
                 <div class="detail-box">
                   <h5>
-                    French Fries
+                  Golden Fries
                   </h5>
                   <p>
-                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                  Crunch into our Golden Fries, perfectly crispy and seasoned to perfection. A classic side that pairs well with any meal!
                   </p>
                   <div class="options">
                     <h6>
@@ -640,10 +640,10 @@
                 </div>
                 <div class="detail-box">
                   <h5>
-                    Delicious Pizza
+                  Pizza Veggie Delight
                   </h5>
                   <p>
-                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                  Loaded with colorful bell peppers, onions, olives, mozzarella cheese, and tomato sauce. A garden-fresh treat!
                   </p>
                   <div class="options">
                     <h6>
@@ -716,10 +716,10 @@
                 </div>
                 <div class="detail-box">
                   <h5>
-                    Tasty Burger
+                  Chicken Burger
                   </h5>
                   <p>
-                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                  Indulge in our Chicken Burger, featuring grilled chicken, lettuce, tomato slices, and a crisp green leaf. Deliciously tender!
                   </p>
                   <div class="options">
                     <h6>
@@ -792,10 +792,10 @@
                 </div>
                 <div class="detail-box">
                   <h5>
-                    Tasty Burger
+                  Vegetable Burger
                   </h5>
                   <p>
-                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                  Enjoy our Vegetable Burger, packed with fresh veggies, lettuce, tomato slices, and a vibrant green leaf. A garden-fresh choice!
                   </p>
                   <div class="options">
                     <h6>
@@ -868,10 +868,10 @@
                 </div>
                 <div class="detail-box">
                   <h5>
-                    Delicious Pasta
+                  Pasta Marinara
                   </h5>
                   <p>
-                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                  Savor our Pasta Marinara, featuring rich tomato sauce, fresh garlic, basil, and al dente spaghetti. Simple, yet satisfying!
                   </p>
                   <div class="options">
                     <h6>
